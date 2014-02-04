@@ -1,0 +1,4 @@
+{
+"Notepad++" : {"version": "66.5.3", "SourceUrl" : "http://172.25.30.38/npp.Installer.exe", "type" : "executable"},
+"Mozilla Firefox 25.0.1 (x86 en-US)" : {"version": "25.0.1", "SourceUrl" : "http://172.25.30.38/Mozilla.msi", "type" : "msi"}
+}
